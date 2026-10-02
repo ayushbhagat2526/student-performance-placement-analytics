@@ -1,0 +1,101 @@
+student_id,name,gender,age,department,cgpa,attendance,projects,internships,coding_score,aptitude_score,communication_score,placed,package_lpa
+1001,Karan,MALE,20,Mechanical,9.24,92.8,3,0,98,84,36,Placed,6.28
+1002,Pooja,FEMALE,23,Computer science,5.68,86.1,0,0,63,38,80,Not Placed,0.0
+1003,Meera,FEMALE,20,Civil,8.54,68.3,0,2,35,32,71,Not Placed,0.0
+1004,Priya,FEMALE,20,Civil,7.76,71.0,0,0,82,60,93,Not Placed,0.0
+1005,Aryan,MALE,21,Civil,6.48,68.6,5,1,95,69,44,Not Placed,0.0
+1006,Karan,MALE,23,Civil,7.1,75.1,4,2,72,65,58,Placed,3.38
+1007,Kavya,MALE,23,Civil,6.28,61.6,5,0,52,53,62,Not Placed,0.0
+1008,Priya,MALE,21,Electronics,8.06,84.7,1,2,84,35,56,Placed,4.14
+1009,Priya,MALE,22,Electronics,5.41,73.5,3,0,45,95,65,Not Placed,0.0
+1010,Rahul,MALE,20,Computer science,5.03,86.2,4,0,37,33,58,Not Placed,0.0
+1011,Aryan,FEMALE,24,Civil,8.14,75.4,4,0,33,35,67,Not Placed,0.0
+1012,Aditya,MALE,20,Computer science,5.97,87.3,4,1,33,80,86,Not Placed,0.0
+1013,Arjun,MALE,20,Civil,5.35,73.6,4,1,85,91,56,Not Placed,0.0
+1014,Sneha,MALE,22,Civil,6.98,70.4,5,2,54,86,84,Placed,5.52
+1015,Vikram,FEMALE,20,Electronics,5.25,79.8,4,0,96,95,62,Not Placed,0.0
+1016,Arjun,MALE,21,Electronics,9.43,87.7,2,0,96,37,97,Placed,4.81
+1017,Aarav,MALE,21,Mechanical,5.14,73.9,3,1,56,55,95,Not Placed,0.0
+1018,Sneha,FEMALE,23,Electronics,7.89,97.5,4,0,61,80,39,Placed,4.06
+1019,Sneha,MALE,24,Mechanical,7.19,61.6,3,1,79,74,34,Not Placed,0.0
+1020,Neha,MALE,20,Mechanical,8.36,76.7,2,0,90,73,67,Placed,4.32
+1021,Ananya,MALE,20,Mechanical,6.64,98.7,2,2,80,34,42,Not Placed,0.0
+1022,Aisha,MALE,22,Mechanical,5.78,81.9,3,0,48,99,60,Not Placed,0.0
+1023,Meera,MALE,21,Mechanical,9.91,76.9,0,0,50,55,76,Placed,5.44
+1024,Meera,FEMALE,24,Computer science,9.19,82.7,1,3,34,97,81,Placed,6.87
+1025,Kavya,FEMALE,23,Electronics,9.3,83.0,0,1,71,48,85,Placed,4.15
+1026,Sneha,FEMALE,21,Mechanical,6.25,89.3,0,0,90,49,44,Not Placed,0.0
+1027,Pooja,MALE,23,Civil,5.19,65.1,5,0,51,41,58,Not Placed,0.0
+1028,Aditya,MALE,22,Electronics,6.52,70.0,0,3,50,76,37,Not Placed,0.0
+1029,Rohan,MALE,22,Electronics,7.69,83.2,4,3,99,30,34,Placed,6.02
+1030,Kavya,FEMALE,20,Mechanical,6.63,94.7,5,1,30,43,58,Not Placed,0.0
+1031,Karan,MALE,24,Computer science,9.14,82.5,5,3,34,93,76,Placed,7.69
+1032,Kabir,MALE,23,Mechanical,6.36,69.5,2,2,41,67,97,Not Placed,0.0
+1033,Karan,FEMALE,21,Computer science,9.83,87.2,0,3,75,66,74,Placed,6.01
+1034,Riya,MALE,22,Civil,7.29,89.6,2,2,63,40,31,Not Placed,0.0
+1035,Rahul,FEMALE,20,Electronics,9.21,69.5,3,1,78,32,56,Placed,7.91
+1036,Diya,FEMALE,20,Civil,5.97,75.1,1,1,74,62,65,Not Placed,0.0
+1037,Riya,FEMALE,23,Computer science,7.06,81.4,5,1,56,35,65,Not Placed,0.0
+1038,Kabir,MALE,22,Computer science,8.5,79.9,3,1,55,79,55,Placed,6.26
+1039,Arjun,MALE,24,Civil,5.69,75.6,3,1,76,39,72,Not Placed,0.0
+1040,Pooja,MALE,22,Computer science,5.66,71.9,4,2,85,34,56,Not Placed,0.0
+1041,Meera,MALE,23,Civil,9.85,64.0,1,2,92,52,98,Placed,5.84
+1042,Karan,MALE,23,Electronics,8.57,62.1,3,1,77,39,49,Placed,6.37
+1043,Sneha,MALE,22,Civil,5.21,98.3,3,3,90,73,40,Not Placed,0.0
+1044,Aryan,MALE,23,Electronics,6.99,93.9,1,0,55,31,67,Not Placed,0.0
+1045,Meera,FEMALE,22,Civil,7.17,74.2,1,1,65,42,35,Not Placed,0.0
+1046,Aditya,MALE,21,Computer science,8.72,98.3,3,3,30,69,52,Placed,5.3
+1047,Diya,FEMALE,22,Civil,6.25,87.1,1,0,37,31,76,Not Placed,0.0
+1048,Neha,MALE,22,Computer science,5.92,79.3,3,1,81,94,75,Not Placed,0.0
+1049,Rahul,MALE,23,Civil,5.4,79.7,3,1,76,92,41,Not Placed,0.0
+1050,Riya,MALE,23,Civil,7.14,63.3,4,2,85,46,42,Placed,6.35
+1051,Aryan,FEMALE,20,Mechanical,8.44,63.7,0,0,43,38,91,Not Placed,0.0
+1052,Rahul,FEMALE,20,Computer science,5.29,84.1,3,0,57,44,89,Not Placed,0.0
+1053,Arjun,FEMALE,21,Mechanical,9.58,82.1,2,3,31,53,72,Placed,5.63
+1054,Vikram,FEMALE,20,Computer science,7.21,68.5,5,2,55,67,97,Placed,4.03
+1055,Ananya,MALE,22,Mechanical,6.2,97.8,0,2,43,64,34,Not Placed,0.0
+1056,Rahul,FEMALE,23,Electronics,5.47,91.3,0,2,88,78,66,Not Placed,0.0
+1057,Riya,MALE,20,Civil,5.91,64.5,0,2,85,98,60,Not Placed,0.0
+1058,Sneha,MALE,20,Computer science,9.67,97.2,4,0,36,91,38,Placed,7.65
+1059,Arjun,FEMALE,21,Computer science,8.19,99.0,3,0,32,89,80,Placed,4.77
+1060,Ananya,FEMALE,21,Civil,7.58,99.8,4,1,52,79,58,Placed,6.08
+1061,Rahul,FEMALE,22,Computer science,8.29,62.2,3,1,47,38,69,Not Placed,0.0
+1062,Diya,FEMALE,23,Computer science,7.18,89.5,4,2,67,63,70,Placed,4.74
+1063,Aisha,FEMALE,21,Mechanical,8.65,81.8,4,2,44,64,40,Placed,7.64
+1064,Meera,FEMALE,20,Computer science,5.24,88.2,5,2,93,30,52,Not Placed,0.0
+1065,Aryan,FEMALE,23,Electronics,7.83,98.7,2,1,57,69,30,Not Placed,0.0
+1066,Diya,FEMALE,23,Electronics,5.79,87.5,4,3,68,93,75,Placed,3.96
+1067,Aryan,MALE,20,Civil,5.6,93.5,5,3,86,51,50,Placed,3.15
+1068,Aisha,FEMALE,21,Computer science,6.71,94.7,1,1,46,89,65,Not Placed,0.0
+1069,Ishita,FEMALE,20,Civil,5.46,93.5,2,1,73,93,83,Not Placed,0.0
+1070,Riya,MALE,23,Electronics,5.47,77.0,4,1,54,40,86,Not Placed,0.0
+1071,Meera,FEMALE,24,Computer science,6.56,68.9,0,1,46,43,30,Not Placed,0.0
+1072,Ishita,MALE,24,Computer science,9.9,75.9,1,1,42,89,92,Placed,7.71
+1073,Kabir,MALE,22,Civil,5.88,95.7,1,1,54,59,83,Not Placed,0.0
+1074,Meera,FEMALE,20,Electronics,5.09,65.9,5,2,97,64,84,Not Placed,0.0
+1075,Ishita,MALE,20,Computer science,8.82,80.5,1,2,39,66,69,Placed,5.14
+1076,Aarav,MALE,22,Civil,9.03,69.3,2,2,96,34,44,Placed,6.71
+1077,Karan,MALE,22,Electronics,6.73,83.3,4,2,47,55,50,Not Placed,0.0
+1078,Kabir,MALE,22,Civil,7.32,94.5,4,1,63,91,76,Placed,6.04
+1079,Aarav,FEMALE,23,Mechanical,8.25,95.2,0,3,37,33,82,Placed,4.95
+1080,Sneha,MALE,20,Computer science,5.24,69.5,5,0,69,71,38,Not Placed,0.0
+1081,Aryan,FEMALE,23,Mechanical,9.75,96.3,0,1,71,47,81,Placed,6.11
+1082,Priya,MALE,22,Electronics,9.43,83.7,1,0,70,69,86,Placed,5.18
+1083,Kavya,MALE,20,Mechanical,6.3,74.0,0,3,35,68,55,Not Placed,0.0
+1084,Neha,MALE,23,Mechanical,5.08,88.3,2,2,81,43,70,Not Placed,0.0
+1085,Aryan,MALE,23,Electronics,9.67,79.3,4,3,55,61,64,Placed,6.14
+1086,Aditya,FEMALE,22,Civil,7.51,75.1,1,1,93,80,92,Placed,6.74
+1087,Aditya,FEMALE,20,Mechanical,7.7,88.2,0,2,88,67,54,Placed,5.2
+1088,Aarav,MALE,22,Civil,8.42,69.9,5,1,85,52,67,Placed,7.92
+1089,Rohan,MALE,20,Mechanical,8.08,73.2,2,2,88,92,31,Placed,7.07
+1090,Ananya,FEMALE,24,Civil,9.72,77.4,2,0,99,44,36,Placed,5.96
+1091,Karan,MALE,21,Electronics,9.72,70.1,0,0,62,54,63,Placed,3.49
+1092,Kabir,MALE,21,Mechanical,9.34,76.2,4,0,82,46,46,Placed,5.32
+1093,Karan,MALE,21,Electronics,8.18,82.9,0,3,51,95,72,Placed,5.91
+1094,Kabir,FEMALE,22,Mechanical,9.0,89.6,1,1,50,82,88,Placed,6.46
+1095,Aryan,FEMALE,24,Electronics,8.39,90.7,0,3,99,80,80,Placed,5.75
+1096,Sneha,FEMALE,20,Electronics,7.87,92.9,2,0,99,68,83,Placed,4.09
+1097,Arjun,MALE,23,Mechanical,5.64,89.8,0,1,33,80,53,Not Placed,0.0
+1098,Aarav,MALE,20,Mechanical,9.06,87.2,4,0,91,99,54,Placed,8.73
+1099,Aisha,FEMALE,23,Mechanical,9.1,69.5,5,3,91,35,100,Placed,8.01
+1100,Rohan,FEMALE,20,Computer science,8.13,76.0,3,3,53,96,81,Placed,5.14

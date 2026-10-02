@@ -1,0 +1,32 @@
+
+STUDENT PERFORMANCE & PLACEMENT ANALYTICS
+==========================================
+
+Total Students: 100
+
+Placement Percentage:
+placed
+Placed        50.0
+Not Placed    50.0
+Name: proportion, dtype: float64
+
+Average CGPA by Placement Status:
+placed
+Not Placed    6.2206
+Placed        8.5190
+Name: cgpa, dtype: float64
+
+Average Coding Score by Placement Status:
+placed
+Not Placed    61.74
+Placed        68.20
+Name: coding_score, dtype: float64
+
+Average Attendance by Placement Status:
+placed
+Not Placed    79.866
+Placed        82.200
+Name: attendance, dtype: float64
+
+Average Package of Placed Students:
+5.76 LPA
